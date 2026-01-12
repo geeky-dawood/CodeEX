@@ -22,6 +22,11 @@
 
 🧱 Clean Architecture Implementation
 
+🧠 BLoC / State Management Optimization
+
+🎨 Responsive UI across devices
+
+🔍 Advanced form validation & reusable components
 
 
 
