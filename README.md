@@ -12,6 +12,15 @@
 
 🧪 Achieved high unit test coverage for backend services
 
+🌍 Integrated REST APIs and third-party services smoothly
+
+💳 Successfully tested and deployed live payment integrations
+
+🔄 Refactored legacy codebase into a clean, maintainable architecture
+
+📊 Technical Highlights
+
+🧱 Clean Architecture Implementation
 
 
 
