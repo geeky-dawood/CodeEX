@@ -36,7 +36,11 @@
 
 📥 Increased app reliability and crash-free sessions
 
-\
+👥 Collaborated effectively with cross-functional teams
+
+🚀 Delivered features within tight deadlines
+
+🔧 Continuously improving code quality and maintainability
 
 🛠 Tech Stack
 
