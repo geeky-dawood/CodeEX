@@ -18,17 +18,6 @@
 
 🔄 Refactored legacy codebase into a clean, maintainable architecture
 
-📊 Technical Highlights
-
-🧱 Clean Architecture Implementation
-
-🧠 BLoC / State Management Optimization
-
-🎨 Responsive UI across devices
-
-🔍 Advanced form validation & reusable components
-
-📦 Modular and scalable project structure
 
 
 
