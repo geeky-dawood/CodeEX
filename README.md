@@ -42,9 +42,4 @@
 
 🔧 Continuously improving code quality and maintainability
 
-🛠 Tech Stack
 
-Mobile: Flutter, Dart
-Backend: NestJS, Node.js
-Database: PostgreSQL
-Tools: Git, GitHub, Postman, Firebase
