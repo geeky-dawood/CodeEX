@@ -30,5 +30,11 @@
 
 📦 Modular and scalable project structure
 
+🧪 Unit & Integration Testing
 
+📈 Growth & Impact
+
+📥 Increased app reliability and crash-free sessions
+
+👥 Collaborated effectively with cross-functional teams
 
