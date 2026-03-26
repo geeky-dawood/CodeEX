@@ -14,15 +14,7 @@
 
 🌍 Integrated REST APIs and third-party services smoothly
 
-💳 Successfully tested and deployed live payment integrations
 
-🔄 Refactored legacy codebase into a clean, maintainable architecture
-
-📊 Technical Highlights
-
-🧱 Clean Architecture Implementation
-
-🧠 BLoC / State Management Optimization
 
 
 
