@@ -24,14 +24,6 @@
 
 🧠 BLoC / State Management Optimization
 
-🎨 Responsive UI across devices
 
-🔍 Advanced form validation & reusable components
-
-📦 Modular and scalable project structure
-
-🧪 Unit & Integration Testing
-
-📈 Growth & Impact
 
 
